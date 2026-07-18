@@ -50,4 +50,4 @@ duplicate-file-finder/
 
 ## Author
 
-Your Name — Smruti Pragyan Rath 
+Smruti Pragyan Rath 

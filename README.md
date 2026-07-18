@@ -3,7 +3,9 @@
 A simple web app that scans a folder and finds duplicate files — even if they've been renamed — by comparing file size first, then verifying with a SHA-256 hash.
 
 **🔗 Live demo:** https://duplicate-file-finder-my7ayjcnekkssyq57znagz.streamlit.app/
-![screenshot](screenshot.png)
+![screenshot]
+<img width="717" height="866" alt="image" src="https://github.com/user-attachments/assets/82d1390c-912a-482e-85f9-f9bd989f4217" />
+
 
 ## How it works
 
